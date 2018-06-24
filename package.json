@@ -1,0 +1,10 @@
+{
+  "name": "play-with-typings",
+  "version": "1.0.0",
+  "description": "just a fake project to play with VS Code settings",
+  "license": "GNU",
+  "author": "Daniel Benner",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}
